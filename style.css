@@ -261,11 +261,11 @@
         right: 20%;
     }
     30% {
-        right: calc(100% - 30px);
+        right: calc(100% - 50px);
         bottom: -10px;
     }
     45% {
-        right: calc(100% - 30px);
+        right: calc(100% - 50px);
         bottom: 100%;
     }
     75% {
